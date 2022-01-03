@@ -1,0 +1,153 @@
+{
+  "GuideData": {
+
+    "AdsController": 
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3002422786861728",
+        "BannerAdmob": "ca-app-pub-3002422786861728/7869954455",
+        "InterstitialAdmob": "ca-app-pub-3002422786861728/9670121286",
+        "NativeAdmob": ""
+      },
+
+    "items": [
+      {
+        "image": "https://i.imgur.com/CTbTlCT.png",
+        "list_items": [
+                {
+                  "image": "https://i.imgur.com/aSZRgig.png",
+                  "title": "Maro",
+                  "text": "Maro loves animals and feels that humans overthink everything and forget about the true meaning of life. The character comes with a special survival ability of Falcon Fervor. With this, the damage increases with distance and damage to marked enemies also increase."
+                },
+                {
+                  "image": "https://i.imgur.com/Nq6W4Nm.png",
+                  "title": "Xayne",
+                  "text": "Xayne is the female character in the game who is interested in extreme activities. She prefers xtreme sports instead of human interaction. The character comes with Xtreme Encounter special ability. This allows players to get 80HP temporarily. It also increases damage to Gloo Walls and shields, though it lasts for 10 seconds."
+                },
+                {
+                  "image": "https://i.imgur.com/qR4cviE.png",
+                  "title": "Skyler",
+                  "text": "Skuler is the CEO of the largest entertainment company in Vietnam. He has a special survival ability known as Riptide Rhythm. It basically unleashes a sonic wave forward that gamages Gloo Wals. Also, each Gloo Wall deployed will result in HP recovery."
+                },
+                {
+                  "image": "https://i.imgur.com/ovix03c.png",
+                  "title": "Shirou",
+                  "text": "Shirou is an app-delivery boy and fights have been a part of his life since he was a child. He possesses a special ability of Damage Delivered. When a player is hit from within 80 meter, the attacker is marked. Furthermore, the first shot on marked enemies has additional armour penetration power."
+                },
+                {
+                  "image": "https://i.imgur.com/3E4XRf6.png",
+                  "title": "Dasha",
+                  "text": "Dasha had a happy childhood, though soon a series of unfortunate events happened in her life. The character comes with a Partying On special survival ability. This reduces damage taken and recovery time from falls. It also helps to reduce rate of recoil buildup and maximum recoil."
+                },
+                {
+                  "image": "https://i.imgur.com/79V9XpM.png",
+                  "title": "Luqueta",
+                  "text": "Luqueta was an exchange student from overseas and is an athletic kid. The character comes with Hat Trick special ability that allows players to get the max HP, up to 35, with every kill."
+                }
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/ZK28AhC.png",
+        "list_items": [
+                {
+                  "image": "https://i.imgur.com/E2LiUoy.png",
+                  "title": "Scar",
+                  "text": "Scar"
+                },
+                {
+                  "image": "https://i.imgur.com/qRGsPI8.png",
+                  "title": "Vss",
+                  "text": "Vss"
+                },
+                {
+                  "image": "https://i.imgur.com/pZ58h7K.png",
+                  "title": "M4A1",
+                  "text": "M4A1"
+                },
+                {
+                  "image": "https://i.imgur.com/j9clHGG.png",
+                  "title": "FAMAS",
+                  "text": "FAMAS"
+                },
+                {
+                  "image": "https://i.imgur.com/Fn9dvYp.png",
+                  "title": "M249",
+                  "text": "M249"
+                },
+                {
+                  "image": "https://i.imgur.com/1EmoE2v.png",
+                  "title": "UMP",
+                  "text": "UMP"
+                },
+                {
+                  "image": "https://i.imgur.com/742yosT.png",
+                  "title": "SVD",
+                  "text": "SVD"
+                }
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/UnRENL9.png",
+        "list_items": [
+                {
+                  "image": "https://i.imgur.com/aSZRgig.png",
+                  "title": "Maro",
+                  "text": "Maro loves animals and feels that humans overthink everything and forget about the true meaning of life. The character comes with a special survival ability of Falcon Fervor. With this, the damage increases with distance and damage to marked enemies also increase."
+                },
+                {
+                  "image": "https://i.imgur.com/Fn9dvYp.png",
+                  "title": "M249",
+                  "text": ""
+                },
+                 {
+                  "image": "https://i.imgur.com/97g4koa.png",
+                  "title": "Sport Car",
+                  "text": "lambo transparent one off"
+                }
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/0NYEpzo.png",
+        "list_items": [
+                {
+                  "image": "https://i.imgur.com/97g4koa.png",
+                  "title": "Sport Car",
+                  "text": "lambo transparent one off"
+                }
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/eElbP47.png",
+        "list_items": [
+                {
+                  "image": "https://i.imgur.com/oNCz5f0.png",
+                  "title": "Old Hampton",
+                  "text": "Old Hampton"
+                },
+                {
+                  "image": "https://i.imgur.com/Tv3C2Gp.png",
+                  "title": "Shrines",
+                  "text": "Shrines"
+                },
+                {
+                  "image": "https://i.imgur.com/5oWXJUC.png",
+                  "title": "Council Hall",
+                  "text": "Council Hall"
+                },
+                {
+                  "image": "https://i.imgur.com/KU7XE99.png",
+                  "title": "Foundation",
+                  "text": "Foundation"
+                },
+                {
+                  "image": "https://i.imgur.com/HXvexOz.png",
+                  "title": "Bayfront",
+                  "text": "Bayfront"
+                }
+                
+        ]
+      }
+    ]
+
+  }
+}
